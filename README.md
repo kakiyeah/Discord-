@@ -1,5 +1,7 @@
 Discord 聊天记录导出参考：https://github.com/Tyrrrz/DiscordChatExporter
+
 Discord chat history export reference: https://github.com/Tyrrrz/DiscordChatExporter
+
 以上项目仅适用于简体中文和繁体中文。
 
 
