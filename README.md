@@ -4,6 +4,9 @@ Discord chat history export reference: https://github.com/Tyrrrz/DiscordChatExpo
 
 以上项目仅适用于简体中文和繁体中文。
 
+当简体中文和繁体中文混用的时候，需要用GB18030或者GBK。
+
+When simplified Chinese and traditional Chinese are mixed, GB18030 or GBK is required
 
 The above items are only applicable to simplified and traditional Chinese.
 ![062e4949929bf293013b68e024ce67b](https://github.com/kakiyeah/Sentiment-analysis-of-Discord-chat-history/assets/160962346/41e33e2c-7818-470a-b1c2-123e7bebb8a6)
