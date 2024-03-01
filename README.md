@@ -11,5 +11,6 @@ The above items are only applicable to simplified and traditional Chinese.
 <img width="480" alt="bcc804d44aac4c42198f96228f4c945" src="https://github.com/kakiyeah/Sentiment-analysis-of-Discord-chat-history/assets/160962346/a19102b2-2d2d-4479-9093-02150102ec4d">
 
 
-需要注意的是，因为导出的csv文件的date一栏没有显示时间，需要在csv文件新建一栏newTime然后利用Python新建时间.
+需要注意的是，因为导出的csv文件的date一栏没有显示时间，需要在csv文件新建一栏newTime然后利用Python新建时间。
+
 It should be noted that because the date column of the exported csv file does not display the time, you need to create a new column newTime in the csv file and then use Python to create.
